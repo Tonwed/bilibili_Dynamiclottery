@@ -1,11 +1,13 @@
 <div align="center">
-
+  
+易语言做的一个哔哩哔哩动态抽奖爬虫
+  
 ![1](https://img.shields.io/badge/License-MIT-brightgreen)
 ![2](https://img.shields.io/badge/Price-free-blue)
 ![3](https://img.shields.io/badge/Version-1.0.0-red)
 ![4](https://img.shields.io/badge/QQ_group-195173307-yellow)
 
-易语言做的一个哔哩哔哩动态抽奖爬虫
+
   
 </div>
 
