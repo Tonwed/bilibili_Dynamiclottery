@@ -5,8 +5,8 @@
 [![Gitter](https://badges.gitter.im/mamoe/mirai.svg)](https://gitter.im/mamoe/mirai?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![MiraiForum](https://img.shields.io/badge/post-on%20MiraiForum-yellow)](https://mirai.mamoe.net)
 
-mirai 是一个在全平台下运行，提供 QQ Android 协议支持的高效率机器人库
-
+易语言做的一个哔哩哔哩动态抽奖爬虫
+  
 </div>
 
 ## 声明
