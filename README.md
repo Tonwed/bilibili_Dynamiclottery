@@ -1,7 +1,7 @@
 <div align="center">
 
 ![1](https://img.shields.io/badge/License-MIT-brightgreen)
-[![2](https://img.shields.io/badge/price-free-blue)
+![2](https://img.shields.io/badge/price-free-blue)
 [![Gitter](https://badges.gitter.im/mamoe/mirai.svg)](https://gitter.im/mamoe/mirai?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![MiraiForum](https://img.shields.io/badge/post-on%20MiraiForum-yellow)](https://mirai.mamoe.net)
 
