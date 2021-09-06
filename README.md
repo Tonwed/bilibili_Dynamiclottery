@@ -2,7 +2,7 @@
 
 ![1](https://img.shields.io/badge/License-MIT-brightgreen)
 ![2](https://img.shields.io/badge/Price-free-blue)
-[![Gitter](https://badges.gitter.im/mamoe/mirai.svg)](https://gitter.im/mamoe/mirai?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![3](https://img.shields.io/badge/Version-1.0.0-red)
 [![MiraiForum](https://img.shields.io/badge/post-on%20MiraiForum-yellow)](https://mirai.mamoe.net)
 
 易语言做的一个哔哩哔哩动态抽奖爬虫
