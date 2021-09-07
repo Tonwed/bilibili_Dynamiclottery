@@ -6,11 +6,9 @@
 ![2](https://img.shields.io/badge/Price-free-blue)
 ![3](https://img.shields.io/badge/Version-1.0.0-red)
 ![4](https://img.shields.io/badge/QQ_group-195173307-yellow)
-  
-!(https://img.kaiheila.cn/assets/2021-09/BaLrY6vl5410m0mo.png)
 
 </div>
-
+https://img.kaiheila.cn/assets/2021-09/BaLrY6vl5410m0mo.png
 ## 声明
 
 - 写的很烂，爱看不看
